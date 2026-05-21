@@ -25,4 +25,6 @@ and building a solid foundation for my software engineering career.
 Thank you for stopping by and taking the time to read this! If you have any advice, feedback, or just want to connect, 
 feel free to check out my profile. 
 
+### MY EMAIL IS adrian.programar@gmail.com
+
 *Thank you for reading!* 
